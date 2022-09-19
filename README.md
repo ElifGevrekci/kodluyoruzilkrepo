@@ -11,4 +11,4 @@ pull requestler kabul edilir
 ## License
 [mit](https://choosealicense.com/licenses/mit/)
 
-![img file](https://www.karel.com.tr/sites/default/files/pictures/temiz-kod-oneriler-ana.jpg)
+![img file](https://github.com/ElifGevrekci.png?size=200)
